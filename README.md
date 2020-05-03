@@ -2,8 +2,8 @@
 
 This project was inspired by Rona2020 and [Anchor of Gold](https://www.anchorofgold.com/).
 
-| Command | Description |
+| Year | Opponent | Link |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| `2015` | Kansas |
 | `git diff` | Show file differences that **haven't been** staged |
 
